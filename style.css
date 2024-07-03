@@ -1,0 +1,36 @@
+/* style.css */
+
+QWidget {
+    background-color: #6afae7; /* Define a cor de fundo para um cinza escuro */
+}
+
+QLabel {
+    color: yellow;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+QPushButton {
+    background-color: rgb(251, 251, 178);
+    color: black;
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+QLineEdit {
+    background-color: black;
+    color: yellow;
+    border-radius: 5px;
+    border-style: inset;
+    border-color: yellow;
+    border-width: 2px;
+}
+
+QTextEdit {
+    background-color: black;
+    color: yellow;
+    border-radius: 5px;
+    border-style: inset;
+    border-color: yellow;
+    border-width: 2px;
+}
